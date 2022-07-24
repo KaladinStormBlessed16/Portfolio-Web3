@@ -52,16 +52,16 @@ const About = (props) => {
               </p>
               <p>
                 I am a creative, proactive person who loves software development
-                just because It allows me to build pretty much whatever I want,
-                the only real boundary is my imagination, and there are big
-                dreams out there waiting for me to make them true. I'm almost an
-                adict to the most bleeding edge technology innovations, always
-                eager to learn and improve my skills, and that was basically
-                what got me into <b className="color">Web3</b>. I've been
-                playing hard to learn and really grasp the main blockchain
-                development fundamentals and web3 basics. I'm incredibly hyped
-                about this dazzling new chapter not just in my carrer, but in my
-                whole life, and I would love to
+                just because It allows us to build pretty much whatever we want,
+                is the ability to turn ideas and concepts into actual value by
+                bringing solutions to somebody's problems. I'm almost an addict
+                to the most bleeding edge technology innovations, always eager
+                to learn and improve my skills, and that was basically what got
+                me into <b className="color">Web3</b>. I've been playing hard to
+                learn and really grasp the main blockchain development
+                fundamentals and web3 basics. I'm incredibly hyped about this
+                dazzling new chapter not just in my carrer, but in my whole
+                life, and I would love to
                 <b className="color"> build something BIG </b> together with
                 other degens!
               </p>
