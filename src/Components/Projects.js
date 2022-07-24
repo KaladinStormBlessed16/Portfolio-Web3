@@ -248,7 +248,7 @@ const Projects = (props) => {
             className="yellow-link"
           >
             <img
-              src={`${process.env.PUBLIC_URL}/assets/nokia.png`}
+              src={`${process.env.PUBLIC_URL}/assets/Nokia.png`}
               alt="company"
               width="250"
             />

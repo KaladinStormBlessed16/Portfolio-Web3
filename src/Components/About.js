@@ -62,7 +62,8 @@ const About = (props) => {
                 development fundamentals and web3 basics. I'm incredibly hyped
                 about this dazzling new chapter not just in my carrer, but in my
                 whole life, and I would love to
-                <b className="color"> build something BIG together!</b>
+                <b className="color"> build something BIG </b> together with
+                other degens!
               </p>
             </div>
             <div className="col-8 col-md-4 my-auto mx-auto mx-sm-auto">
