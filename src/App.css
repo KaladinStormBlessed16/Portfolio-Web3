@@ -827,7 +827,6 @@ article,
   background: #181d23 url(../public/assets/envelope.svg) no-repeat right;
   clip-path: polygon(0 0, 20% 100px, 100% 0, 100% 100%, 0 100%);
   color: #fafafa;
-  max-height: 90vh;
   width: 100%;
   padding: 5rem 3rem;
   display: flex;
@@ -961,6 +960,10 @@ input[type="submit"]:focus {
     max-width: 15.8rem !important;
     padding: 0.2rem;
   }
+  #contact .container {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
 }
 
 @media only screen and (max-width: 1380px) {
@@ -989,9 +992,7 @@ input[type="submit"]:focus {
   }
   #contact .container {
     width: 95%;
-    max-width: 1200px;
-    padding: 5vh 5vh;
-    margin-top: 10vh;
+    margin-top: 15vh;
   }
   #projects .fcc-img {
     max-width: 18vw !important;
@@ -1126,6 +1127,10 @@ input[type="submit"]:focus {
     clip-path: polygon(0 0, 20% 5%, 100% 0, 100% 100%, 0 100%);
     padding: 0;
   }
+  #contact .container {
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+  }
 }
 
 @media only screen and (max-width: 500px) {
@@ -1246,6 +1251,10 @@ input[type="submit"]:focus {
     margin-top: 0.5rem !important;
     min-height: 10rem;
     max-height: 10rem;
+  }
+  #contact .container {
+    margin-top: 10vh;
+    margin-bottom: 7vh;
   }
 }
 
