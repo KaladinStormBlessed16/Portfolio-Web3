@@ -140,8 +140,9 @@ const Projects = (props) => {
             <p>
               In this dApp you can stack an USDT's mock in order to get an
               ERC20, Reward Token every hour. For this project I didn't use the
-              OpenZeppelin ERC20's contract, but developer all the functions
-              myself, which helped me to understand methods like "approveFrom".
+              OpenZeppelin ERC20's contract, instead I developed all the
+              functions myself, which helped me to understand methods like
+              "approveFrom".
             </p>
           </Project>
           <Project
@@ -155,7 +156,7 @@ const Projects = (props) => {
             <p>
               In Music Portal we are using the Blockchain as a whiteboard to
               paste tape notes, so everybody can recomend me a song and let me
-              know your favorute music. There is a 20% of getting a reward in
+              know your favorite music. There is a 20% of getting a reward in
               the process!
             </p>
           </Project>
