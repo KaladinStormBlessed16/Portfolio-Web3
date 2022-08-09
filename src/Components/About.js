@@ -18,8 +18,8 @@ const About = (props) => {
               <p>
                 I'm a cuban <b className="color">software developer</b> who was
                 raised in Spain. <br />A little highlights of my professional
-                career? After finishing my programing studies I worked for half
-                year as a fullstack developer in great companies such as{" "}
+                career? After finishing my programming studies I worked for half
+                year as a Fullstack Developer in great companies such as{" "}
                 <a
                   href="https://thecloud.group"
                   target="_blank"
@@ -48,7 +48,8 @@ const About = (props) => {
                 >
                   <i> Tabit GmbH</i>
                 </a>{" "}
-                , and I couln't be happier with all the stuff I've learned here.
+                , and I couldn't be happier with all the stuff I've learned
+                here.
               </p>
               <p>
                 I am a creative, proactive person who loves software development
@@ -60,7 +61,7 @@ const About = (props) => {
                 me into <b className="color">Web3</b>. I've been playing hard to
                 learn and really grasp the main blockchain development
                 fundamentals and web3 basics. I'm incredibly hyped about this
-                dazzling new chapter not just in my carrer, but in my whole
+                dazzling new chapter not just in my career, but in my whole
                 life, and I would love to
                 <b className="color"> build something BIG </b> together with
                 other degens!
