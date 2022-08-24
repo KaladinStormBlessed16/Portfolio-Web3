@@ -98,7 +98,7 @@ const Projects = (props) => {
             img={`${process.env.PUBLIC_URL}/assets/nft-marketplace.png`}
             tech="css js react eth"
             link="https://nft-marketplace-rho-lemon.vercel.app"
-            repo="https://github.com/synner7forever/NFT-Marketplace-Hardhat"
+            repo="https://github.com/KaladinStormBlessed16/NFT-Marketplace-Hardhat"
           >
             <small>
               Built using Solidity, Hardhat, TheGraph, Nextjs.js and React
@@ -115,7 +115,7 @@ const Projects = (props) => {
             img={`${process.env.PUBLIC_URL}/assets/naruto-panels.png`}
             tech="css js react eth"
             link="https://naruto-panels.vercel.app/"
-            repo="https://github.com/synner7forever/Naruto-Panels-Nft"
+            repo="https://github.com/KaladinStormBlessed16/Naruto-Panels-Nft"
           >
             <small>
               Built using Solidity, Hardhat and Chainlink for the Smart
@@ -134,7 +134,7 @@ const Projects = (props) => {
             img={`${process.env.PUBLIC_URL}/assets/stacking-app.png`}
             tech="css js react eth"
             link="https://defi-stacking-app.vercel.app/"
-            repo="https://github.com/synner7forever/Defi-Stacking-App"
+            repo="https://github.com/KaladinStormBlessed16/Defi-Stacking-App"
           >
             <small>Built using Solidity, Truffle, React and Web3.js</small>
             <p>
@@ -150,7 +150,7 @@ const Projects = (props) => {
             img={`${process.env.PUBLIC_URL}/assets/music-portal.png`}
             tech="css js react eth"
             link="https://music-portal-five.vercel.app/"
-            repo="https://github.com/synner7forever/Music-Portal"
+            repo="https://github.com/KaladinStormBlessed16/Music-Portal"
           >
             <small>Built using Solidity, Hardhat, Nextjs.js and Ethers.</small>
             <p>
